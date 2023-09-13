@@ -21,7 +21,7 @@ const divs = document.querySelectorAll('.animate-div');
 
 links.forEach((link, index) => {
   link.addEventListener('mouseenter', () => {
-    divs[index].style.transform = 'translateX(30%) rotate(-15deg)';
+    divs[index].style.transform = 'translateX(60%) rotate(-15deg)';
 
   });
   link.addEventListener('mouseleave', () => {
