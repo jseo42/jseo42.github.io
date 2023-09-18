@@ -410,7 +410,7 @@ a#medium-link:hover {
   
 }
 .animate-div:nth-child(1){
-  filter: blur(0.8px);
+  filter: blur(0.3px);
 }
 
 @media (max-width: 480px) {
